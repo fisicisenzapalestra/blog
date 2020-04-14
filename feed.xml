@@ -3,7 +3,7 @@
     <title>Fisici Senza Palestra</title>
     <link href="https://fisicisenzapalestra.github.io/blog/feed.xml" rel="self" />
     <link href="https://fisicisenzapalestra.github.io/blog" />
-    <updated>2020-04-14T12:58:51+02:00</updated>
+    <updated>2020-04-14T17:42:41+02:00</updated>
     <author>
         <name>Raffaele Farinaro</name>
     </author>
@@ -94,9 +94,10 @@
         <link href="https://fisicisenzapalestra.github.io/blog/quanto-sono-fondati-i-rumors-sulle-nuove-onde-gravitazionali.html"/>
         <id>https://fisicisenzapalestra.github.io/blog/quanto-sono-fondati-i-rumors-sulle-nuove-onde-gravitazionali.html</id>
             <category term="Scoperte"/>
+            <category term="Motherboard"/>
             <category term="Fisica"/>
 
-        <updated>2020-04-14T12:08:10+02:00</updated>
+        <updated>2020-04-14T17:23:42+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://fisicisenzapalestra.github.io/blog/media/posts/217/neutron.jpg" alt="" />
@@ -108,7 +109,7 @@
                     <img src="https://fisicisenzapalestra.github.io/blog/media/posts/217/neutron.jpg" alt="" />
                 <p>Lo scorso 25 Agosto si è concluso ufficialmente il secondo Advanced Detector Observing Run, in breve 'O2', che vede la collaborazione di LIGO e dell'italianissimo <a href="https://motherboard.vice.com/it/article/xwyevz/documentario-virgo-onde-gravitazionali-pisa">Virgo</a> che dallo scorso 30 Novembre hanno unito le forze in cerca di nuove onde gravitazionali. Come si legge dal <a href="https://www.ligo.caltech.edu/news/ligo20170825" target="_blank" rel="noopener noreferrer">comunicato ufficiale</a>, alcuni "candidati promettenti" sono stati individuati e i dati sono stati inviati ai vari istituti astronomici che collaborano con il progetto per essere analizzati e quindi ufficialmente divulgati (ad alcune condizioni). Niente di ufficiale quindi, eppure in questi giorni non si parla d'altro che di una nuova sorgente di onde gravitazionali.</p>
 <p>Tutto è cominciato il 18 Agosto....</p>
-<p><a href="https://motherboard.vice.com/it/article/evvqvm/quanto-sono-fondati-i-rumors-sulle-nuove-onde-gravitazionali"><img class="post__image post__image--center" src="https://fisicisenzapalestra.github.io/blog/media/posts/217/CONTINUASUMOTHERBOARD.jpg" width="686" height="200"></a></p>
+<p><a href="https://www.vice.com/it/article/evvqvm/quanto-sono-fondati-i-rumors-sulle-nuove-onde-gravitazionali"><img class="post__image post__image--center" src="https://fisicisenzapalestra.github.io/blog/media/posts/217/CONTINUASUMOTHERBOARD.jpg" width="686" height="200"></a></p>
             ]]>
         </content>
     </entry>
@@ -120,8 +121,9 @@
         <link href="https://fisicisenzapalestra.github.io/blog/boinc-il-calcolo-distribuito-rivoluziona-la-scienza.html"/>
         <id>https://fisicisenzapalestra.github.io/blog/boinc-il-calcolo-distribuito-rivoluziona-la-scienza.html</id>
             <category term="Tecnologia"/>
+            <category term="Motherboard"/>
 
-        <updated>2020-04-14T12:07:29+02:00</updated>
+        <updated>2020-04-14T17:23:09+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://fisicisenzapalestra.github.io/blog/media/posts/166/boinc.jpg" alt="" />
@@ -133,7 +135,7 @@
                     <img src="https://fisicisenzapalestra.github.io/blog/media/posts/166/boinc.jpg" alt="" />
                 <p>L’introduzione dei computer ha, senza mezzi termini, rivoluzionato la scienza. La possibilità di creare dei modelli realistici che mimano la realtà a livelli molto diversi, da quello subatomico a quello interstellare, ha dato la possibilità di effettuare indagini che anni fa sarebbero apparse folli e sognanti. L’utilizzo di alcuni programmi permette di creare dei veri e propri “laboratori virtuali” nei quali è possibile ripetere lo stesso esperimento, ogni volta con una variabile diversa, nel giro di pochi secondi: risparmio di materiale, tempo e rischi (pensate a un esperimento chimico).</p>
 <p>Perché questi modelli ricalchino in modo più realistico possibile la realtà è però necessaria tanta potenza di calcolo. E con <a href="http://bit.ly/1LrphZn" target="_blank" rel="noopener noreferrer">il fallimento della legge di Moore</a>, una delle possibili soluzioni e quella della “parallelizzazione”, ovvero l’utilizzo di più processori allo stesso tempo per analizzare più efficientemente i dati.</p>
-<p><a href="http://motherboard.vice.com/it/read/boinc-rivoluzione-scientifica"><img class="post__image post__image--center" src="https://fisicisenzapalestra.github.io/blog/media/posts/166/CONTINUASUMOTHERBOARD.jpg" alt="continuasumotherboard" width="686" height="200"></a></p>
+<p><a href="https://www.vice.com/it/article/kb3v9y/boinc-rivoluzione-scientifica"><img class="post__image post__image--center" src="https://fisicisenzapalestra.github.io/blog/media/posts/166/CONTINUASUMOTHERBOARD.jpg" alt="continuasumotherboard" width="686" height="200"></a></p>
             ]]>
         </content>
     </entry>
@@ -145,8 +147,9 @@
         <link href="https://fisicisenzapalestra.github.io/blog/quando-i-videogiochi-istigano-alla-ricerca-scientifica.html"/>
         <id>https://fisicisenzapalestra.github.io/blog/quando-i-videogiochi-istigano-alla-ricerca-scientifica.html</id>
             <category term="Tecnologia"/>
+            <category term="Motherboard"/>
 
-        <updated>2020-04-14T12:07:12+02:00</updated>
+        <updated>2020-04-14T17:24:18+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://fisicisenzapalestra.github.io/blog/media/posts/169/quantum_game.jpg" alt="" />
@@ -158,7 +161,7 @@
                     <img src="https://fisicisenzapalestra.github.io/blog/media/posts/169/quantum_game.jpg" alt="" />
                 <p>Quante ore spendiamo sui videogiochi? Senza fare distinzione tra app per smartphone o tablet e giochi per console e PC, dev’essere difficile fare la conta delle ore totali spese a giocare. Partiamo da un punto di vista più generale: per esempio, solo con <em>World Of Warcraft</em>, la popolazione mondiale ha speso online più di<a href="https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world?language=en"> <u>sei milioni di anni</u></a>—Sei milioni di anni giocando a un singolo videogioco.</p>
 <p>Mentre a molti un numero del genere potrebbe far venire un capogiro, a Jacob Sherson ha fatto venire in mente qualcosa di rivoluzionario. Questo fisico danese con il sogno di costruire un computer quantistico ha ben pensato che se riuscissimo a trasformare gli ostacoli di progettazione di una tecnologia del genere in difficoltà da superare all’interno di un videogioco, magari saranno i giocatori stessi a risolvere i problemi.</p>
-<p><a href="http://motherboard.vice.com/it/read/i-videogiochi-istigano-alla-ricerca-scientifica"><img class="post__image post__image--center" src="https://fisicisenzapalestra.github.io/blog/media/posts/169/CONTINUASUMOTHERBOARD.jpg" alt="continuasumotherboard" width="686" height="200"></a></p>
+<p><a href="https://www.vice.com/it/article/8q5ygx/i-videogiochi-istigano-alla-ricerca-scientifica"><img class="post__image post__image--center" src="https://fisicisenzapalestra.github.io/blog/media/posts/169/CONTINUASUMOTHERBOARD.jpg" alt="continuasumotherboard" width="686" height="200"></a></p>
             ]]>
         </content>
     </entry>
@@ -170,9 +173,10 @@
         <link href="https://fisicisenzapalestra.github.io/blog/tre-modi-per-risorgere-nel-mondo-virtuale.html"/>
         <id>https://fisicisenzapalestra.github.io/blog/tre-modi-per-risorgere-nel-mondo-virtuale.html</id>
             <category term="Tecnologia"/>
+            <category term="Motherboard"/>
             <category term="Dubbi esistenziali"/>
 
-        <updated>2020-04-14T12:06:41+02:00</updated>
+        <updated>2020-04-14T17:25:07+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://fisicisenzapalestra.github.io/blog/media/posts/171/trascendence.jpg" alt="" />
@@ -186,7 +190,7 @@
 <p>"Nella vita l'unica cosa certa è la morte, cioè l'unica cosa di cui non si sa nulla con certezza" diceva Soren Kierkegaard. OK, abbiamo accettato il nostro destino e ci siamo rassegnati a questo, chi a malincuore e chi con la speranza di un qualcosa che ci aspetta dall’altra parte.</p>
 <p>L'altra sera mi è capitato di vedere <a href="https://it.wikipedia.org/wiki/Transcendence_(film)" target="_blank" rel="noopener noreferrer"><em>Trascendence</em></a>, il debutto in regia di Wally Pfister, direttore della fotografia di Nolan dai tempi di <em>Memento</em> e vincitore di un Oscar: uno che sa il fatto suo. Dopo<em> I</em><em>l cavaliere oscuro - Il ritorno </em>ha deciso di abbandonare la fotografia e di sedersi sulla sedia della regia con questa sceneggiatura scritta da Jack Paglen.</p>
 <p>Il dottor Will Caster, uno tra i più importanti ricercatori nell'ambito dell'intelligenza artificiale, viene assassinato da un movimento di terroristi anti-tecnologici. La sua ricerca aveva il fine di creare una macchina che combinasse l'intelligenza collettiva di tutto quello che è conosciuto con l'intera gamma delle emozioni umane per creare una macchina che avesse coscienza di sé.</p>
-<p><a href="http://motherboard.vice.com/it/read/come-risorgere-nel-mondo-virtuale"><img class="post__image post__image--center" src="https://fisicisenzapalestra.github.io/blog/media/posts/171/CONTINUASUMOTHERBOARD.jpg" alt="continuasumotherboard" width="686" height="200"></a></p>
+<p><a href="https://www.vice.com/it/article/9aqpyv/come-risorgere-nel-mondo-virtuale"><img class="post__image post__image--center" src="https://fisicisenzapalestra.github.io/blog/media/posts/171/CONTINUASUMOTHERBOARD.jpg" alt="continuasumotherboard" width="686" height="200"></a></p>
             ]]>
         </content>
     </entry>
@@ -198,9 +202,10 @@
         <link href="https://fisicisenzapalestra.github.io/blog/partecipa-al-primo-test-universale-sulla-disugaglianza-di-bell.html"/>
         <id>https://fisicisenzapalestra.github.io/blog/partecipa-al-primo-test-universale-sulla-disugaglianza-di-bell.html</id>
             <category term="Tecnologia"/>
+            <category term="Motherboard"/>
             <category term="Fisica"/>
 
-        <updated>2020-04-14T12:06:19+02:00</updated>
+        <updated>2020-04-14T17:25:43+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://fisicisenzapalestra.github.io/blog/media/posts/173/Schermata-2016-11-29-alle-08.33.41.png" alt="" />
@@ -215,7 +220,7 @@
 <p>Questo è quello che succede nel mondo macroscopico, la realtà che ci è dato sperimentare con i nostri sensi. Ma il mondo degli atomi è molto più complicato: le particelle sono onde, le onde sono particelle e a una causa non corrisponde una conseguenza assolutamente determinata; possiamo solo stimare la probabilità che qualcosa accada.</p>
 <p>Ai guru della fisica dell'epoca questo non poteva andare bene: una realtà incontrollabile (o quasi), una svalutazione del ruolo dello scienziato. Tra le più famose obiezioni alla meccanica quantistica non si può non includere il paradosso EPR (Einstein-Podolsky-Rosen): un articolo di quattro pagine in cui gli autori, tra i fisici più illustri del momento, cercano di dimostrare come la teoria quantistica non rispetti realismo e principio di località.</p>
 <p>Nella visione della meccanica quantistica di Niels Bohr (uno dei suoi padri putativi) si afferma infatti che le quantità fisiche non hanno senso finché non vengono misurate, per cui l’atto della misurazione modifica la realtà—per certi aspetti la viene proprio a creare. Questo si scontra con l’idea classica che la realtà esista indipendentemente dagli osservatori, il realismo.</p>
-<p><a href="http://motherboard.vice.com/it/read/che-cosa-e-la-disugaglianza-di-bell"><img class="post__image post__image--center" src="https://fisicisenzapalestra.github.io/blog/media/posts/173/CONTINUASUMOTHERBOARD.jpg" alt="continuasumotherboard" width="686" height="200"></a></p>
+<p><a href="https://www.vice.com/it/article/qk3qj7/che-cosa-e-la-disugaglianza-di-bell"><img class="post__image post__image--center" src="https://fisicisenzapalestra.github.io/blog/media/posts/173/CONTINUASUMOTHERBOARD.jpg" alt="continuasumotherboard" width="686" height="200"></a></p>
             ]]>
         </content>
     </entry>
@@ -227,8 +232,9 @@
         <link href="https://fisicisenzapalestra.github.io/blog/da-asimov-al-matrioshka-brain-limmortalita-tecnologica-nella-fantascienza.html"/>
         <id>https://fisicisenzapalestra.github.io/blog/da-asimov-al-matrioshka-brain-limmortalita-tecnologica-nella-fantascienza.html</id>
             <category term="Tecnologia"/>
+            <category term="Motherboard"/>
 
-        <updated>2020-04-14T12:05:56+02:00</updated>
+        <updated>2020-04-14T17:26:14+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://fisicisenzapalestra.github.io/blog/media/posts/178/matrioska.jpg" alt="" />
@@ -246,7 +252,7 @@
 <p style="text-align: justify;">Non risponderò quindi alla domanda del "se è possibile", ma vi racconterò <em>come</em> può essere possibile, e soprattutto <em>cosa potrebbe comportare</em> una tecnologia simile.</p>
 <p style="text-align: justify;">Se non siete molto esperti di <a href="http://motherboard.vice.com/it/read/singolarita-tecnologica" target="_blank" rel="noopener noreferrer">singolarità</a>, vi cito le parole di Zoltan Istvan: "<em>il concetto di singolarità tecnologica è roba tosta da capire. Persino gli esperti hanno definizioni diverse.</em>" Nulla di più vero. Senza pretesa di rigore, possiamo dire che la singolarità è un concetto preso in prestito dalla fisica e dalla matematica che, per dirla in parole povere, indica un punto in cui una qualche grandezza diverge (<em>aka</em> tende all'infinito)—come ad esempio il campo gravitazionale all'interno di un buco nero.</p>
 <p class="photo-credit" style="text-align: justify;">Nel mondo tecnologico, una singolarità indica una tecnologia che, una volta azionata, è destinata a cambiare per sempre il mondo per come lo conosciamo. C'è chi parla della singolarità come l'ultima invenzione dell'uomo, nel senso che arriveremo a progettare un'AI (<em>artifical intelligence</em>) così sviluppata da riuscire a migliorare se stessa e con essa qualsiasi altra macchina, rendendo quindi effettivamente inutile la creazione da parte nostra di qualsiasi ulteriore tecnologia. Questo implica, d'altro canto, che l'AI sarà diventata più intelligente di noi. E qui incontriamo il grande bivio.</p>
-<p style="text-align: justify;"><a href="http://motherboard.vice.com/it/read/asimov-singolarita-tecnologica-e-matrioska-brain"><img class="post__image post__image--center" src="https://fisicisenzapalestra.github.io/blog/media/posts/178/CONTINUASUMOTHERBOARD.jpg" alt="" width="686" height="200"></a></p>
+<p style="text-align: justify;"><a href="https://www.vice.com/it/article/gvj7zx/asimov-singolarita-tecnologica-e-matrioska-brain"><img class="post__image post__image--center" src="https://fisicisenzapalestra.github.io/blog/media/posts/178/CONTINUASUMOTHERBOARD.jpg" alt="" width="686" height="200"></a></p>
             ]]>
         </content>
     </entry>
@@ -257,9 +263,10 @@
         </author>
         <link href="https://fisicisenzapalestra.github.io/blog/e-se-luniverso-fosse-un-ologramma.html"/>
         <id>https://fisicisenzapalestra.github.io/blog/e-se-luniverso-fosse-un-ologramma.html</id>
+            <category term="Motherboard"/>
             <category term="Fisica"/>
 
-        <updated>2020-04-14T12:03:33+02:00</updated>
+        <updated>2020-04-14T17:26:56+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://fisicisenzapalestra.github.io/blog/media/posts/188/1485945234979-theNavigator.jpeg" alt="" />
@@ -276,7 +283,7 @@
 <p>L'articolo, firmato da un team di ricercatori italiani, inglesi e canadesi e pubblicato su <a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.041301" target="_blank" rel="noopener noreferrer">Physical Review Letters</a> è diretto fin da subito: un modello olografico per descrivere il nostro universo è possibile e sembra avere la stessa precisione dell'attuale teoria cosmica.</p>
 <p>In totale opposizione con le ultime "teorie del tutto", come quella delle superstringhe che prevede che la materia sia composta da minuscole corde vibranti in uno spazio di 11 dimensioni (10+1, 7 in più dello spazio 3D a noi noto senza contare la dimensione temporale), il modello olografico prevede che lo spazio sia descrivibile utilizzando solamente <strong>due dimensioni</strong> (più il tempo).</p>
 <p>"<i> L'idea alla base della teoria olografica dell'universo è che tutte le informazioni che costituiscono la 'realtà' a tre dimensioni – più il tempo – siano contenute entro i confini di una realtà con una dimensione in meno</i>" spiega <strong>Claudio Corianò</strong>, ricercatore dell'Infn e professore di fisica teorica dell'Università del Salento che ha firmato l'articolo.</p>
-<p><a href="https://motherboard.vice.com/it/article/ci-sono-nuove-prove-che-luniverso-sia-un-ologramma"><img class="post__image post__image--center" src="https://fisicisenzapalestra.github.io/blog/media/posts/188/CONTINUASUMOTHERBOARD.jpg" width="686" height="200"></a></p>
+<p><a href="https://www.vice.com/it/article/kbgz9v/ci-sono-nuove-prove-che-luniverso-sia-un-ologramma"><img class="post__image post__image--center" src="https://fisicisenzapalestra.github.io/blog/media/posts/188/CONTINUASUMOTHERBOARD.jpg" width="686" height="200"></a></p>
             ]]>
         </content>
     </entry>
@@ -287,9 +294,10 @@
         </author>
         <link href="https://fisicisenzapalestra.github.io/blog/i-cristalli-di-tempo-sono-una-nuova-fase-della-materia.html"/>
         <id>https://fisicisenzapalestra.github.io/blog/i-cristalli-di-tempo-sono-una-nuova-fase-della-materia.html</id>
+            <category term="Motherboard"/>
             <category term="Fisica"/>
 
-        <updated>2020-04-14T12:02:15+02:00</updated>
+        <updated>2020-04-14T17:28:22+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://fisicisenzapalestra.github.io/blog/media/posts/189/cristalli-di-tempo.jpg" alt="" />
@@ -307,7 +315,7 @@
 </div>
 <p><i></i>Uno dei teoremi più affascinanti della fisica è frutto del genio di una matematica tedesca di origini ebraiche Emmy Noether, che afferma che ad ogni simmetria del sistema corrisponde una legge di conservazione: se il sistema è uguale in ogni punto dello spazio (ha simmetria per traslazioni spaziali) allora la quantità di moto si conserverà. Se la simmetria è temporale allora a conservarsi sarà l'energia.</p>
 <p>Questo implica che ogni volta che una simmetria viene rotta, viene meno una legge di conservazione: le conseguenze di questo fenomeno, la rottura della simmetria, sono da sempre oggetto di studio nella fisica. Basti pensare al ferromagnetismo, che diventa realtà quando gli spin all'interno di un metallo scelgono di orientarsi tutti in un certo modo, mentre prima erano disposti a caso. Un esempio più comune è quello dei cristalli: strutture che ripetono la posizione esatta dei propri atomi per lunghissime distanze, donando caratteristiche uniche a questa categoria di materiali.</p>
-<p><a href="https://motherboard.vice.com/it/article/i-cristalli-di-tempo-sono-una-nuova-fase-della-materia"><img class="post__image post__image--center" src="https://fisicisenzapalestra.github.io/blog/media/posts/189/CONTINUASUMOTHERBOARD.jpg" width="686" height="200"></a></p>
+<p><a href="https://www.vice.com/it/article/jpdbxy/i-cristalli-di-tempo-sono-una-nuova-fase-della-materia"><img class="post__image post__image--center" src="https://fisicisenzapalestra.github.io/blog/media/posts/189/CONTINUASUMOTHERBOARD.jpg" width="686" height="200"></a></p>
             ]]>
         </content>
     </entry>
